@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "react-toastify/dist/ReactToastify.css";
+@theme {--gradient-brand: linear-gradient(to right, #f97316, #ec4899, #9333ea);}
