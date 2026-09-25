@@ -29,7 +29,7 @@ individually, or clear the whole stack at once.
 ## 🔗 Links
 
 - GitHub Repository: https://github.com/huzaifakabir05-boop/B14-A05
-- Live Site: [your-deployed-link-here]
+- Live Site: https://huzaifakabir05-boop.github.io/B14-A05/
 
 ---
 
