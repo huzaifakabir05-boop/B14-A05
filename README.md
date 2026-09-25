@@ -28,7 +28,7 @@ individually, or clear the whole stack at once.
 
 ## 🔗 Links
 
-- GitHub Repository: [your-repo-link-here]
+- GitHub Repository: https://github.com/huzaifakabir05-boop/B14-A05
 - Live Site: [your-deployed-link-here]
 
 ---
